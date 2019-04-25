@@ -1,0 +1,2 @@
+SECRET_KEY=rahasia
+API_KEY=6oJIKGfOxkD9tF6RCLlIbvlwN2Q1DeIQfhk8obyV
